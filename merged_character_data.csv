@@ -1,0 +1,95 @@
+Name,Quality (star),Element,Weapon,HP,ATK,DEF,DPS,On-field,Off-field,Support,Survivability
+Albedo,5.0,GEO,Sword,1029.5856,19.551,68.2062,Yes,No,Yes,No,No
+Alhaitham,5.0,DENDRO,Sword,1039.1188,24.3922,60.84711,Yes,Yes,No,No,No
+Aloy,5.0,CRYO,Bow,848.4548,18.21036,52.6504,Yes,Yes,No,No,No
+Amber,4.0,PYRO,Bow,793.2582,18.6984,50.358,Yes,No,Yes,No,No
+Arataki Itto,5.0,GEO,Claymore,1000.986,17.689,74.66784,Yes,Yes,No,No,No
+Arlecchino,5.0,PYRO,Polearm,1020.0524,26.6266,59.53085,Yes,Yes,No,No,No
+Astrologist Mona Megistus,5.0,HYDRO,Catalyst,810.322,22.344,50.8555,No,No,Yes,Yes,No
+Baizhu,5.0,DENDRO,Catalyst,1039.1188,14.9891,38.8895,No,No,Yes,Yes,Yes
+Barbara Pegg,4.0,HYDRO,Catalyst,820.6119,13.356,56.0805,No,No,Yes,No,Yes
+Beidou,4.0,ELECTRO,Claymore,1094.1492,18.87648,54.36375,Yes,No,Yes,No,Yes
+Bennett,4.0,PYRO,Sword,1039.4418,16.0272,64.66425,No,No,Yes,Yes,Yes
+Candace,4.0,HYDRO,Polearm,911.791,17.808,57.225,No,No,Yes,Yes,No
+Charlotte,4.0,CRYO,Catalyst,902.6731,14.51352,45.78,No,No,Yes,No,Yes
+Chasca,5.0,ANEMO,Bow,762.656,26.999,47.864,Yes,Yes,No,No,No
+Chevreuse,4.0,PYRO,Polearm,1002.9701,16.20528,50.70135,No,No,Yes,Yes,Yes
+Chiori,5.0,GEO,Sword,890.4009,25.137,74.1892,Yes,No,Yes,No,No
+Chongyun,4.0,CRYO,Claymore,920.90894,18.6984,54.36375,Yes,No,Yes,Yes,No
+Citlali,5.0,CRYO,Catalyst,905.654,9.8686,59.41119,No,No,Yes,Yes,Yes
+Clorinde,5.0,ELECTRO,Sword,1008.61255,26.2542,61.0266,Yes,Yes,No,No,No
+Collei,4.0,DENDRO,Bow,820.6119,16.73952,50.358,Yes,No,Yes,No,No
+Cyno,5.0,ELECTRO,Polearm,972.3864,24.7646,66.88994,Yes,Yes,No,No,No
+Dehya,5.0,PYRO,Claymore,1220.2496,20.6682,48.88111,Yes,No,Yes,No,Yes
+Diluc,5.0,PYRO,Claymore,1010.5192,26.068,61.0266,Yes,Yes,No,No,No
+Diona,4.0,CRYO,Bow,802.3761,17.808,50.358,No,No,Yes,No,Yes
+Dori,4.0,ELECTRO,Claymore,1039.4418,18.6984,60.6585,No,No,Yes,No,Yes
+Emilie,5.0,DENDRO,Polearm,1056.2786,26.068,56.8385,Yes,No,Yes,No,No
+Eula Lawrance,5.0,CRYO,Claymore,1029.5856,26.6266,58.45391,Yes,Yes,No,No,No
+Faruzan,4.0,ANEMO,Bow,802.3761,16.4724,52.647,No,No,Yes,Yes,No
+Fischl (Amy),4.0,ELECTRO,Bow,770.4634,20.4792,49.78575,Yes,No,Yes,No,No
+Freminet,4.0,CRYO,Claymore,1012.088,21.3696,59.39955,Yes,Yes,No,No,No
+Furina,5.0,HYDRO,Sword,1191.65,18.9924,54.14615,Yes,No,Yes,Yes,Yes
+Gaming,4.0,PYRO,Claymore,957.38055,25.28736,58.94175,Yes,Yes,No,No,No
+Ganyu,5.0,CRYO,Bow,762.656,26.068,49.0606,,,,,
+Gorou,4.0,GEO,Bow,802.3761,15.31488,54.36375,No,No,Yes,Yes,No
+Hu Tao,5.0,PYRO,Polearm,1210.7164,8.2859,68.2062,Yes,Yes,No,No,No
+Jean,5.0,ANEMO,Sword,1143.984,18.62,59.83,No,No,Yes,No,Yes
+Kachina,4.0,GEO,Polearm,989.2932,18.16416,66.438225,Yes,No,Yes,No,No
+Kaedehara Kazuha,5.0,ANEMO,Polearm,1039.1188,23.0888,62.8215,No,No,Yes,Yes,No
+Kaeya,4.0,CRYO,Sword,975.6164,18.6984,66.381,,,,,
+Kamisato Ayaka,5.0,CRYO,Sword,1000.986,26.6266,61.0266,Yes,Yes,No,No,No
+Kamisato Ayato,5.0,HYDRO,Sword,1067.184,23.275,59.83,Yes,Yes,No,No,No
+Kaveh,4.0,DENDRO,Claymore,1002.9701,19.5888,62.9475,Yes,Yes,No,No,No
+Keqing,5.0,ELECTRO,Sword,1020.0524,25.137,62.2232,Yes,Yes,No,No,No
+Kinich,5.0,DENDRO,Claymore,1000.986,25.8818,62.40269,Yes,Yes,No,No,No
+Kirara,4.0,DENDRO,Sword,1021.20593,18.6984,45.78,,,,,
+Klee,5.0,PYRO,Catalyst,800.7888,24.206,47.864,Yes,Yes,No,No,No
+Kujou Sara,4.0,ELECTRO,Bow,802.3761,16.38336,52.647,No,No,Yes,Yes,No
+Kuki Shinobu,4.0,ELECTRO,Sword,1030.3239,17.808,62.9475,No,No,Yes,Yes,Yes
+Lan Yan,4.0,ANEMO,Catalyst,775.02234,21.01344,48.64125,Yes,Yes,No,No,Yes
+Layla,4.0,CRYO,Sword,930.0268,18.16416,54.936,No,No,Yes,No,Yes
+Lisa,4.0,ELECTRO,Catalyst,802.3761,19.41072,48.069,Yes,No,Yes,No,No
+Lynette,4.0,ANEMO,Sword,1039.4418,19.41072,59.685677,Yes,No,Yes,No,No
+Lyney,5.0,PYRO,Bow,857.988,24.7646,41.881,Yes,Yes,No,No,No
+Mavuika,5.0,PYRO,Sword,977.153,27.93,61.6249,Yes,Yes,Yes,Yes,No
+Mika Schmidt,4.0,CRYO,Polearm,1048.5597,18.6984,59.800125,No,No,Yes,Yes,Yes
+Mualani,5.0,HYDRO,Catalyst,1182.1168,14.1512,44.39386,Yes,Yes,No,No,No
+Naganohara Yoimiya,5.0,PYRO,Bow,791.2556,25.137,47.864,Yes,Yes,No,No,No
+Nahida,5.0,DENDRO,Catalyst,806.5087,23.275,49.0606,Yes,No,Yes,Yes,No
+Navia Caspar,5.0,GEO,Claymore,984.77954,27.3714,61.74456,,,,,
+Neuvillette,5.0,HYDRO,Catalyst,1143.984,16.218,44.8725,Yes,Yes,No,No,No
+Nilou,5.0,HYDRO,Sword,1182.1168,17.8752,56.71884,Yes,No,Yes,Yes,No
+Ningguang,4.0,GEO,Catalyst,820.6119,17.808,48.096,Yes,Yes,No,No,No
+Noelle,4.0,GEO,Claymore,1012.088,16.0722,66.95325,,,,,
+Ororon,4.0,ELECTRO,Bow,775.02234,20.4792,49.2135,Yes,No,Yes,No,No
+Qiqi,5.0,CRYO,Sword,962.8532,22.344,71.796,No,No,Yes,No,Yes
+Raiden Ei,5.0,ELECTRO,Polearm,1004.79926,26.2542,61.44541,Yes,Yes,No,Yes,No
+Razor,4.0,ELECTRO,Claymore,1002.9701,19.5888,62.9457,Yes,Yes,No,No,No
+Rosaria,4.0,CRYO,Polearm,1030.3239,20.12304,59.514,Yes,No,Yes,No,No
+Sangonomiya Kokomi,5.0,HYDRO,Catalyst,1048.652,18.2476,51.15465,No,No,Yes,Yes,Yes
+Sayu,4.0,ANEMO,Claymore,993.8522,20.4792,62.432476,No,No,Yes,No,Yes
+Sethos,4.0,ELECTRO,Polearm,820.6119,19.05456,46.9245,Yes,Yes,No,No,No
+Shenhe,5.0,CRYO,Polearm,1011.47253,23.6474,64.6164,No,No,Yes,Yes,No
+Shikanoin Heizou,4.0,ANEMO,Catalyst,893.5552,18.87648,57.33945,Yes,Yes,No,No,No
+Sigewinne,5.0,HYDRO,Bow,1039.1188,14.9891,38.8895,No,No,Yes,Yes,Yes
+Sucrose,4.0,ANEMO,Catalyst,775.02234,14.2464,58.94175,No,No,Yes,Yes,No
+Tartaglia (Ajax),5.0,HYDRO,Bow,1020.0524,23.4612,63.4198,Yes,Yes,No,No,No
+Thoma,4.0,PYRO,Polearm,866.2015,16.9176,62.9475,No,No,Yes,No,Yes
+Tighnari,5.0,DENDRO,Bow,844.64154,20.8544,49.0606,,,,,
+Venti,5.0,ANEMO,Bow,819.8552,20.482,52.0521,Yes,No,Yes,Yes,No
+Wanderer,5.0,ANEMO,Catalyst,791.2556,25.5094,47.2657,Yes,Yes,No,No,No
+Wriothesley,5.0,CRYO,Catalyst,1058.18518,24.206,59.41119,Yes,Yes,No,No,No
+Xiangling Mao,4.0,PYRO,Polearm,911.791,18.87648,56.0805,Yes,No,Yes,No,No
+Xianyun,5.0,ANEMO,Catalyst,810.322,26.068,44.57335,No,No,Yes,Yes,Yes
+Xiao,5.0,ANEMO,Polearm,991.4528,27.1852,62.2232,Yes,Yes,No,No,No
+Xilonen,5.0,GEO,Sword,965.71313,21.413,72.3943,No,No,Yes,Yes,Yes
+Xingqiu,4.0,HYDRO,Sword,857.08356,16.9176,63.51975,Yes,No,Yes,No,Yes
+Xinyan,4.0,PYRO,Claymore,939.1447,20.83536,66.95325,No,No,Yes,No,Yes
+Yae Miko,5.0,ELECTRO,Catalyst,807.46204,26.4404,44.2742,Yes,No,Yes,No,No
+Yanfei,4.0,PYRO,Catalyst,784.14026,20.12304,49.2135,Yes,Yes,No,No,No
+Yaoyao,4.0,DENDRO,Polearm,1030.3239,17.808,62.9475,No,No,Yes,No,Yes
+Yelan,5.0,HYDRO,Bow,1124.9167,18.9924,42.65879,Yes,No,Yes,No,No
+Yumemizuki Mizuki,5.0,ANEMO,Catalyst,991.4528,16.758,58.93255,,,,,
+Yun Jin,4.0,GEO,Polearm,893.5552,16.0272,61.5741,No,No,Yes,Yes,No
+Zhongli,5.0,GEO,Polearm,1143.984,19.551,57.4368,No,No,Yes,Yes,Yes
