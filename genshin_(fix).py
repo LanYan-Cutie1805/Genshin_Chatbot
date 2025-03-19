@@ -14,6 +14,7 @@ from llama_index.core.chat_engine import CondensePlusContextChatEngine
 from llama_index.core.retrievers import QueryFusionRetriever
 from llama_index.readers.file import PyMuPDFReader
 import os
+import json
 import pandas as pd
 import re
 from PIL import Image
@@ -23,7 +24,6 @@ nest_asyncio.apply()
 
 # initialize node parser
 splitter = SentenceSplitter(chunk_size=512)
-
 
 
 #SETTING UP LOGGING
@@ -65,7 +65,6 @@ Do not make assumptions or provide information outside the scope of Genshin Impa
 
 Conversation so far:
 """
-
 
 #COFIGURE THE LLM
 Settings.llm = Ollama(model="llama3.1:latest", base_url="http://127.0.0.1:11434", system_prompt=system_prompt)
@@ -248,9 +247,13 @@ if prompt := st.chat_input("What is up?"):
     
     else:
         # Process normal text-based chatbot responses
-        with st.chat_message("assistant"):
+        with st.chat_message("assistant"): 
+            placeholder = st.empty()    
             with st.spinner("Paimon is thinking..."):
+                placeholder.image("paimon-think.jpg", width=200)
+                
                 response_stream = st.session_state.chat_engine.stream_chat(prompt)
                 st.write_stream(response_stream.response_gen)
+            placeholder.empty()
 
         st.session_state.messages.append({"role": "assistant", "content": response_stream.response})
